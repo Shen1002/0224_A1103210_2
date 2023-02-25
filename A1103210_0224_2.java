@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Homework2 {
+public class A1103210_0224_2 {
     public static void main(String[]argv){
         System.out.println("請輸入攝氏溫度:");
         Scanner myInput1 = new Scanner(System.in);
